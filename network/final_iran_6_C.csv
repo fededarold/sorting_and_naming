@@ -1,0 +1,40 @@
+kitchen tool,fruit,vegetable fruit,animal,climbing,painting
+animal,vegetable,mammal,thing,insect,bird
+animal,kitchen,fruit,vegetable,insect,thing
+fruit,vegetable,thing,bird,animal,insect
+tool,pet,non-pet,kitchen tool,vegetable,fruit
+pet,non-pet,kitchen,non-kitchen,fruit,vegetable
+insect,four-legged,bird,tool,vegetable,fruit
+fruit,tool,thing,with wings,mammal,vegetable
+alive with no goal,freshness,atomic,container,shield,cane
+personal,writing drawing,fruit,vegetable,animal insect,house 
+insect,painting,edible,living,house tool,kitchen tool
+pet,non-pet,kitchen tool,thing,edible,fruit
+vegetable,tool,fruit,insect,bird,four-legged
+insect,vegetable,fruit,kitchen,tool,animal
+excellent,good,ordinary,non-bad,bitter,unimportant
+fruit vegetable,other,insect,spice,animal,earing 
+thing,kitchen tool,fruit,vegetable,pet,non-pet
+mammal,flying,cutlery,other,plant,drawing
+tough,fruit,tiny,big ,necessary,unnecessary
+thing,good feeling,animal,fruit,vegetable,bird
+stationery,animal,edible,insect,house tool,less usage
+bird,insect,vegetable,fruit,four-legged,thing
+thing,fruit,vegetable,kitchen tool,halal meat animal,non-edible non-halal meat animal
+fruit,parrot,kitchen,animal,necessary,tool
+animal,fruit,tool,edible,new,writing tool
+animal,practical,support,insect,fruit,light
+animal,insect,rain,thing,eat,painting
+tool,edible,insect,bird,stationery,animal
+bird,insect,mammal,thing,vegetable,fruit
+stationery,insect,vegetable,fruit,tool,animal
+edible,kitchen tool,animal,insect,stationery,tool
+animal,kitchen tool,painting tool,vegetable fruit,fruit,house tool
+useless,animal,extra,fruit,taste,tool
+vegetable,fruit,tool,animal,stationery,with wings
+tool,stationery,edible,four-legged,insect,bird
+fruit,vegetable,work tool,kitchen tool,non-mammal,mammal
+animal,food,beauty,need,fruit,vegetable
+stationery,animal with no production ,animal with production,tool,light meal,meal
+kitchen,fruit,farm,zoo,art,tool
+bird,insect,fruit,vegetable,mammal,thing
