@@ -1,0 +1,264 @@
+partecipant 37
+Trial: 1
+Categories
+cose tangibili 0
+cose intagibili 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 2
+Categories
+animali 2
+frutta e verdure 1
+cose 3
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada -1
+Scopa 3
+Bottiglia 3
+Coltello 3
+Ombrello 3
+Forchetta 3
+Matita 3
+Pennello 3
+Cane 2
+Cammello 2
+Pecora 2
+Mucca 2
+Pappagallo 2
+Insetto 2
+Trial: 3
+Categories
+animali 0
+frutta 1
+cose da tavola 2
+accessori utili -1
+verdura e ortaggi 3
+cose per dipingere 5
+Concrete
+Banana 1
+Carota 3
+Uva 1
+Fragola 1
+Fungo 3
+Peperone 3
+Lampada 4
+Scopa 4
+Bottiglia 2
+Coltello 2
+Ombrello 4
+Forchetta 2
+Matita 5
+Pennello 5
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 4
+Categories
+insetti e animali 0
+ortaggi 1
+frutta 2
+oggetti 3
+Concrete
+Banana 2
+Carota 1
+Uva 2
+Fragola 2
+Fungo 1
+Peperone 1
+Lampada 3
+Scopa 3
+Bottiglia 3
+Coltello 3
+Ombrello 3
+Forchetta 3
+Matita 3
+Pennello 3
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 5
+Categories
+esseri viventi 0
+esseri inanimati 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 6
+Categories
+parole chiavi genesi 2
+matematica ed economia 6
+sentimenti ed astrattezza 4
+Abstract
+Inizio 2
+Area 6
+Numero 6
+Risultato 6
+Punizione 2
+Sforzo  4
+Denaro 6
+Descrizione 2
+Motivo 4
+Salvezza 2
+Destino 4
+Paradiso 2
+Peccato 2
+Logica 6
+Amicizia 4
+Conflitto 4
+Gentilezza 4
+Ansia 4
+Vergogna 2
+Simpatia 4
+Trial: 7
+Categories
+parole con due sillabe -1
+parole con tre sillabe -1
+parole con piú sillabe -1
+matematica logica 0
+cose buone 2
+cose descrittive 3
+cose cattive 5
+non so -1
+non so 4
+Abstract
+Inizio 4
+Area 0
+Numero 0
+Risultato 0
+Punizione 5
+Sforzo  1
+Denaro 0
+Descrizione 3
+Motivo 4
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 5
+Logica 0
+Amicizia 2
+Conflitto 5
+Gentilezza 3
+Ansia 1
+Vergogna 5
+Simpatia 3
+Trial: 8
+Categories
+ambito logico e matematico -1
+cose astratte buone 1
+cose astatte non buone 3
+cose astratte che generano incertezza 2
+Abstract
+Inizio 2
+Area 0
+Numero 0
+Risultato 0
+Punizione 3
+Sforzo  3
+Denaro 0
+Descrizione 0
+Motivo 2
+Salvezza 1
+Destino 2
+Paradiso 1
+Peccato 3
+Logica 0
+Amicizia 1
+Conflitto 3
+Gentilezza 1
+Ansia 2
+Vergogna 3
+Simpatia 1
+Trial: 9
+Categories
+cose quantificabili e definibili 0
+cose non quantificabili e difficilmente definibili 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 0
+Sforzo  1
+Denaro 0
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1

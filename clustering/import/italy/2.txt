@@ -1,0 +1,274 @@
+partecipant 2
+Trial: 1
+Categories
+concreto 0
+astratto 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Abstract
+Inizio 1
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 0
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 2
+Categories
+animali a 4 zampe 0
+oggetti per casa 1
+frutta 5
+verdura 6
+oggetti da cucina 2
+animali con numero di zampe diverso da 4 3
+oggetti per arte/scrittura 7
+oggetto per la pioggia 8
+Concrete
+Banana 5
+Carota 6
+Uva 5
+Fragola 5
+Fungo 6
+Peperone 6
+Lampada 1
+Scopa 1
+Bottiglia 2
+Coltello 2
+Ombrello 8
+Forchetta 2
+Matita 7
+Pennello 7
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 3
+Insetto 3
+Trial: 3
+Categories
+oggetti per arte/scrittura 0
+frutta 3
+animali 4
+oggetti per casa 1
+funghi 2
+oggetti per fuori casa 5
+Concrete
+Banana 3
+Carota 3
+Uva 3
+Fragola 3
+Fungo 2
+Peperone 3
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 5
+Forchetta 1
+Matita 0
+Pennello 0
+Cane 4
+Cammello 4
+Pecora 4
+Mucca 4
+Pappagallo 4
+Insetto 4
+Trial: 4
+Categories
+animali 0
+cibo 1
+oggetti per casa 3
+oggetti vari 2
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 3
+Scopa 3
+Bottiglia 3
+Coltello 3
+Ombrello 2
+Forchetta 3
+Matita 2
+Pennello 2
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 5
+Categories
+esseri viventi 0
+oggetti inanimati 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 6
+Categories
+concetti matematici -1
+concetti matematico/logici 0
+sostantivi astratti positivi 5
+ -1
+concetti religiosi 1
+emozioni negative 2
+motivazione -1
+concreto 3
+stimolo educativo 6
+concetto astratto 7
+Abstract
+Inizio 7
+Area 0
+Numero 0
+Risultato 0
+Punizione 6
+Sforzo  6
+Denaro 3
+Descrizione 3
+Motivo 6
+Salvezza 5
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 5
+Conflitto 2
+Gentilezza 5
+Ansia 2
+Vergogna 2
+Simpatia 5
+Trial: 7
+Categories
+astratti positivi 0
+astratti negativi 3
+religione -1
+religione/fatalismo 4
+motivazione all'agire 5
+concreto 2
+educazione/scuola 1
+Abstract
+Inizio 5
+Area 1
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  5
+Denaro 2
+Descrizione 5
+Motivo 5
+Salvezza 0
+Destino 4
+Paradiso 4
+Peccato 4
+Logica 1
+Amicizia 0
+Conflitto 3
+Gentilezza 0
+Ansia 3
+Vergogna 3
+Simpatia 0
+Trial: 8
+Categories
+astratti positivi 0
+astratti negativi 1
+concreti 3
+elementi per ottenere un risultato 2
+Abstract
+Inizio 2
+Area 2
+Numero 2
+Risultato 2
+Punizione 1
+Sforzo  2
+Denaro 3
+Descrizione 3
+Motivo 2
+Salvezza 0
+Destino 2
+Paradiso 0
+Peccato 1
+Logica 2
+Amicizia 0
+Conflitto 1
+Gentilezza 0
+Ansia 1
+Vergogna 1
+Simpatia 0
+Trial: 9
+Categories
+astratti 0
+concreti 1
+Abstract
+Inizio 0
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 1
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 1
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0

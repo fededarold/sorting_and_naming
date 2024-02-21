@@ -1,0 +1,272 @@
+partecipant 23
+Trial: 1
+Categories
+riflessione 0
+concretezza 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 0
+Numero 1
+Risultato 0
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 1
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 2
+Categories
+mondo animale 1
+ -1
+tutti a tavola 2
+tempo libero 3
+casa 4
+Concrete
+Banana 2
+Carota 2
+Uva 2
+Fragola 2
+Fungo 2
+Peperone 2
+Lampada 4
+Scopa 4
+Bottiglia 2
+Coltello 2
+Ombrello 4
+Forchetta 2
+Matita 3
+Pennello 3
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 3
+Categories
+colazione salutare 1
+cose di casa 5
+cena 3
+ -1
+tempo libero 0
+qualcosa di viscido 2
+animali 4
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 3
+Peperone 3
+Lampada 5
+Scopa 5
+Bottiglia 3
+Coltello 3
+Ombrello 5
+Forchetta 3
+Matita 0
+Pennello 0
+Cane 4
+Cammello 4
+Pecora 4
+Mucca 4
+Pappagallo 4
+Insetto 2
+Trial: 4
+Categories
+oggettistica 0
+mondo animale 2
+ -1
+frutta 1
+cena 3
+Concrete
+Banana 1
+Carota 3
+Uva 1
+Fragola 1
+Fungo 3
+Peperone 3
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 3
+Ombrello 0
+Forchetta 3
+Matita 0
+Pennello 0
+Cane 2
+Cammello 2
+Pecora 2
+Mucca 2
+Pappagallo 2
+Insetto 2
+Trial: 5
+Categories
+vegetali e animali 0
+oggettistica 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 6
+Categories
+socialità 0
+obiettivo 6
+ -1
+relazione 8
+matematica 7
+imbarazzo 3
+ragioni 9
+problemi sociali 5
+errori 2
+puoi crederci o no 4
+Abstract
+Inizio 6
+Area 7
+Numero 7
+Risultato 6
+Punizione 2
+Sforzo  6
+Denaro 5
+Descrizione 9
+Motivo 6
+Salvezza 8
+Destino 4
+Paradiso 4
+Peccato 2
+Logica 9
+Amicizia 8
+Conflitto 5
+Gentilezza 0
+Ansia 3
+Vergogna 3
+Simpatia 0
+Trial: 7
+Categories
+religione 4
+geometria 2
+raggiungi un obiettivo 1
+conta 3
+sentimenti negativi 0
+relazioni 5
+Abstract
+Inizio 1
+Area 2
+Numero 3
+Risultato 1
+Punizione 0
+Sforzo  1
+Denaro 3
+Descrizione 2
+Motivo 1
+Salvezza 4
+Destino 4
+Paradiso 4
+Peccato 4
+Logica 2
+Amicizia 5
+Conflitto 0
+Gentilezza 5
+Ansia 0
+Vergogna 0
+Simpatia 5
+Trial: 8
+Categories
+positività 0
+negatività 2
+problema matematico 1
+produttività 3
+Abstract
+Inizio 3
+Area 1
+Numero 1
+Risultato 1
+Punizione 2
+Sforzo  3
+Denaro 3
+Descrizione 1
+Motivo 3
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 2
+Logica 1
+Amicizia 0
+Conflitto 2
+Gentilezza 0
+Ansia 2
+Vergogna 2
+Simpatia 0
+Trial: 9
+Categories
+stare in relazione 1
+concretezza 0
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 0
+Motivo 0
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1

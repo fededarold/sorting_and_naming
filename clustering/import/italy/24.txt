@@ -1,0 +1,265 @@
+participant 24
+Trial: 1
+Categories
+cose astratte 0
+cose concrete 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 2
+Categories
+positive 1
+negative 0
+neutre 2
+Abstract
+Inizio 2
+Area 2
+Numero 2
+Risultato 2
+Punizione 0
+Sforzo  0
+Denaro 2
+Descrizione 2
+Motivo 2
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 0
+Logica 2
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 0
+Vergogna 0
+Simpatia 1
+Trial: 3
+Categories
+emozioni relazionali 0
+matematica 1
+spiritualitá 4
+motivazione 5
+letteratura 3
+futuro prossimo 2
+Abstract
+Inizio 3
+Area 1
+Numero 1
+Risultato 1
+Punizione 4
+Sforzo  2
+Denaro 5
+Descrizione 3
+Motivo 5
+Salvezza 4
+Destino 4
+Paradiso 4
+Peccato 4
+Logica 1
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 2
+Vergogna 0
+Simpatia 0
+Trial: 4
+Categories
+comportamenti 3
+spiritualitá 0
+emozioni -1
+relazioni 1
+scuola 2
+Abstract
+Inizio 2
+Area 2
+Numero 2
+Risultato 2
+Punizione 0
+Sforzo  3
+Denaro 2
+Descrizione 2
+Motivo 3
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 2
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 5
+Categories
+personali 0
+universali 1
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  1
+Denaro 1
+Descrizione 1
+Motivo 1
+Salvezza 0
+Destino 0
+Paradiso 1
+Peccato 0
+Logica 1
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 6
+Categories
+frutta 0
+animali 1
+oggetti 2
+verdure 5
+Concrete
+Banana 0
+Carota 5
+Uva 0
+Fragola 0
+Fungo 5
+Peperone 5
+Lampada 2
+Scopa 2
+Bottiglia 2
+Coltello 2
+Ombrello 2
+Forchetta 2
+Matita 2
+Pennello 2
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 7
+Categories
+animali non quadrupedi 0
+quadrupedi 1
+verdura 2
+oggetti da cucina 3
+frutta 4
+ -1
+oggetti non da cucina 5
+Concrete
+Banana 4
+Carota 2
+Uva 4
+Fragola 4
+Fungo 2
+Peperone 2
+Lampada 5
+Scopa 5
+Bottiglia 3
+Coltello 3
+Ombrello 5
+Forchetta 3
+Matita 5
+Pennello 5
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 0
+Insetto 0
+Trial: 8
+Categories
+utensili 1
+animali 0
+vegetali 2
+non utensili 3
+Concrete
+Banana 2
+Carota 2
+Uva 2
+Fragola 2
+Fungo 2
+Peperone 2
+Lampada 3
+Scopa 1
+Bottiglia 3
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 9
+Categories
+esseri viventi 0
+oggetti 1
+ -1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0

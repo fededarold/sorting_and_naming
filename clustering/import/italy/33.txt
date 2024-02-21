@@ -1,0 +1,264 @@
+participant 33
+Trial: 1
+Categories
+concetti astratti -1
+cose e animali 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 2
+Categories
+animali -1
+cibo -1
+oggetti -1
+Concrete
+Banana 5
+Carota 5
+Uva 5
+Fragola 5
+Fungo 5
+Peperone 5
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello -1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 3
+Categories
+animali 0
+cibo 5
+oggetti 1
+oggetti presenti in cucina 4
+oggetti per disegnare 2
+frutta 3
+Concrete
+Banana 3
+Carota 5
+Uva 3
+Fragola 3
+Fungo 5
+Peperone 5
+Lampada 1
+Scopa 1
+Bottiglia 4
+Coltello 4
+Ombrello 1
+Forchetta 4
+Matita 2
+Pennello 2
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 4
+Categories
+cibo 2
+animali 1
+oggetti maggiormente presenti in cucina 0
+oggetti maggiormente presenti in cameretta 3
+Concrete
+Banana 2
+Carota 2
+Uva 2
+Fragola 2
+Fungo 2
+Peperone 2
+Lampada 3
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 3
+Forchetta 0
+Matita 3
+Pennello 3
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 5
+Categories
+esseri viventi 1
+esseri non viventi 0
+Concrete
+Banana 1
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 6
+Categories
+emozioni 0
+percezione interiore 5
+ambito matematico_geometrico 1
+concezioni religiose 6
+parole che iniziano per D -1
+Abstract
+Inizio 5
+Area 1
+Numero 1
+Risultato 1
+Punizione 6
+Sforzo  5
+Denaro 2
+Descrizione 2
+Motivo 5
+Salvezza 6
+Destino 6
+Paradiso 6
+Peccato 6
+Logica 1
+Amicizia 5
+Conflitto 5
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 7
+Categories
+emozioni 0
+ambito matematico_geometrico 4
+concezioni religiose positive 5
+concezioni religiose negative -1
+relazionarsi con gli altri -1
+problema 2
+Abstract
+Inizio 2
+Area 4
+Numero 4
+Risultato 2
+Punizione 1
+Sforzo  3
+Denaro 4
+Descrizione 2
+Motivo 3
+Salvezza 5
+Destino 5
+Paradiso 5
+Peccato 1
+Logica 4
+Amicizia 3
+Conflitto 3
+Gentilezza 3
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 8
+Categories
+concezioni religiose 1
+elementi presenti in un problema matematico 3
+ -1
+emozioni e concetti legati al benessere dell'individuo 2
+emozioni e concetti legati al malassere 0
+Abstract
+Inizio 3
+Area 3
+Numero 3
+Risultato 3
+Punizione 1
+Sforzo  2
+Denaro 3
+Descrizione 3
+Motivo 2
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 3
+Amicizia 2
+Conflitto 0
+Gentilezza 2
+Ansia 0
+Vergogna 0
+Simpatia 2
+Trial: 9
+Categories
+parole che iniziano dalla A alla M 0
+parole che iniziano dalla N_Z 1
+Abstract
+Inizio 0
+Area 0
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 0
+Motivo 0
+Salvezza 1
+Destino 0
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 1
+Simpatia 1

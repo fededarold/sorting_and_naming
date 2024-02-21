@@ -1,0 +1,271 @@
+participant 13
+Trial: 1
+Categories
+cose materiali  -1
+ -1
+astratto 1
+concreto 0
+Concrete
+Banana 0
+Carota 0
+Uva -1
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Abstract
+Inizio 1
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 2
+Categories
+viventi 0
+non viventi 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 3
+Categories
+animali 0
+cibo 1
+oggetti 2
+oggetti per  -1
+mangiare_bere -1
+oggetti per bere/mangiare 3
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 2
+Scopa 2
+Bottiglia 3
+Coltello 3
+Ombrello 2
+Forchetta 3
+Matita 2
+Pennello 2
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 4
+Categories
+animali 1
+cibo 4
+utensili 5
+arte 0
+oggetti utili 3
+vetro 2
+Concrete
+Banana 4
+Carota 4
+Uva 4
+Fragola 4
+Fungo 4
+Peperone 4
+Lampada 3
+Scopa 3
+Bottiglia 2
+Coltello 5
+Ombrello 3
+Forchetta 5
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 5
+Categories
+cibo 0
+oggetti 1
+animali 5
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 5
+Cammello 5
+Pecora 5
+Mucca 5
+Pappagallo 5
+Insetto 5
+Trial: 6
+Categories
+sensezioni -1
+sensazioni 0
+altro 1
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  1
+Denaro 1
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 1
+Conflitto 1
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 7
+Categories
+sensazioni negative -1
+emozioni positive 0
+emozioni negative 2
+ -1
+concrete 1
+astratte 3
+Abstract
+Inizio 3
+Area 1
+Numero 1
+Risultato 1
+Punizione 2
+Sforzo  3
+Denaro 1
+Descrizione 3
+Motivo 3
+Salvezza 0
+Destino 3
+Paradiso 3
+Peccato 3
+Logica 3
+Amicizia 0
+Conflitto 3
+Gentilezza 0
+Ansia 2
+Vergogna 2
+Simpatia 0
+Trial: 8
+Categories
+emozioni negative 0
+emozioni positive 2
+concreto 3
+astratto 5
+motivazione 4
+consequenziali 1
+Abstract
+Inizio 4
+Area 3
+Numero 3
+Risultato 3
+Punizione 0
+Sforzo  4
+Denaro 3
+Descrizione 1
+Motivo 4
+Salvezza 2
+Destino 5
+Paradiso 5
+Peccato 5
+Logica 1
+Amicizia 2
+Conflitto 5
+Gentilezza 2
+Ansia 0
+Vergogna 0
+Simpatia 2
+Trial: 9
+Categories
+astratto 0
+sensazioni negative 1
+sensazioni positive 6
+concreto 5
+consequenziale 7
+motivazione 8
+Abstract
+Inizio 8
+Area 5
+Numero 5
+Risultato 5
+Punizione 1
+Sforzo  8
+Denaro 5
+Descrizione 7
+Motivo 8
+Salvezza 6
+Destino 0
+Paradiso 0
+Peccato -1
+Logica 7
+Amicizia 6
+Conflitto 1
+Gentilezza 6
+Ansia 1
+Vergogna 1
+Simpatia 6

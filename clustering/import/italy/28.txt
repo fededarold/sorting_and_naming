@@ -1,0 +1,271 @@
+participant 28
+Trial: 1
+Categories
+parole che mi piacciono 0
+parole che non mi piacciono 1
+Concrete
+Banana 0
+Carota 1
+Uva 0
+Fragola 0
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 1
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 0
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 1
+Gentilezza 0
+Ansia 1
+Vergogna 1
+Simpatia 0
+Trial: 2
+Categories
+cose interessanti 0
+cosa che non mi interessano 1
+Abstract
+Inizio 0
+Area 1
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  0
+Denaro 0
+Descrizione 1
+Motivo 0
+Salvezza 1
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 1
+Gentilezza 0
+Ansia 1
+Vergogna 1
+Simpatia 0
+Trial: 3
+Categories
+matematica 1
+ -1
+cose spiacevoli 0
+ -1
+cose che é bello avere 2
+cose utili 3
+Abstract
+Inizio 3
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  3
+Denaro 3
+Descrizione 3
+Motivo 2
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 0
+Logica 3
+Amicizia 2
+Conflitto 3
+Gentilezza 2
+Ansia 0
+Vergogna 0
+Simpatia 2
+Trial: 4
+Categories
+religione 0
+matematica 3
+spiacevole 1
+piacevole 4
+cambiamento 2
+non so come chiamare 5
+Abstract
+Inizio 2
+Area 3
+Numero 3
+Risultato 3
+Punizione 1
+Sforzo  2
+Denaro 5
+Descrizione 5
+Motivo 2
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 3
+Amicizia 4
+Conflitto 1
+Gentilezza 4
+Ansia 1
+Vergogna 1
+Simpatia 4
+Trial: 5
+Categories
+quello che serve 0
+quello che non aiuta 1
+quello che puó aiutare -1
+matematica 5
+ -1
+puó essere utile 2
+religione 3
+spiacevole a volte inevitabile -1
+ -1
+quasi inevitabile, difficile da gestire 4
+Abstract
+Inizio 0
+Area 5
+Numero 5
+Risultato 2
+Punizione 1
+Sforzo  0
+Denaro 2
+Descrizione 2
+Motivo 0
+Salvezza 3
+Destino 3
+Paradiso 3
+Peccato 1
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 4
+Vergogna 4
+Simpatia 0
+Trial: 6
+Categories
+vivente 1
+non vivente 0
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 7
+Categories
+animali 2
+vegetali 3
+creativitá 0
+utilitá 1
+Concrete
+Banana 3
+Carota 3
+Uva 3
+Fragola 3
+Fungo 3
+Peperone 3
+Lampada 0
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 0
+Pennello 0
+Cane 2
+Cammello 2
+Pecora 2
+Mucca 2
+Pappagallo 2
+Insetto 2
+Trial: 8
+Categories
+mammiferi 3
+animali 0
+verdura 4
+creativi 5
+oggetti 1
+frutta 2
+Concrete
+Banana 2
+Carota 4
+Uva 2
+Fragola 2
+Fungo 4
+Peperone 4
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 5
+Pennello 5
+Cane 3
+Cammello 3
+Pecora 3
+Mucca 3
+Pappagallo 0
+Insetto 0
+Trial: 9
+Categories
+oggetti belli 5
+oggetti utili 0
+animali 1
+cibo 2
+Concrete
+Banana 2
+Carota 2
+Uva 2
+Fragola 2
+Fungo 2
+Peperone 2
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 5
+Pennello 5
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1

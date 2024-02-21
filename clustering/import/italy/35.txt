@@ -1,0 +1,270 @@
+participant 35
+Trial: 1
+Categories
+oggetti concreti 0
+cose astratte 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Abstract
+Inizio 1
+Area 0
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 2
+Categories
+oggetti 0
+cose viventi 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 3
+Categories
+posate 2
+animali 1
+frutta e verdura 3
+oggetti 0
+Concrete
+Banana 3
+Carota 3
+Uva 3
+Fragola 3
+Fungo 3
+Peperone 3
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 2
+Ombrello 0
+Forchetta 2
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 4
+Categories
+verdure 2
+frutta 3
+posate 4
+oggetti 0
+animali con ali 5
+animali 1
+Concrete
+Banana 3
+Carota 2
+Uva 3
+Fragola 3
+Fungo 2
+Peperone 2
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 4
+Ombrello 0
+Forchetta 4
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 5
+Insetto 5
+Trial: 5
+Categories
+uccelli -1
+ -1
+animali con ali 1
+animali 0
+funghi 3
+oggetti 4
+verdura 2
+frutta 7
+posate 8
+Concrete
+Banana 7
+Carota 2
+Uva 7
+Fragola 7
+Fungo 3
+Peperone 2
+Lampada 4
+Scopa 4
+Bottiglia 4
+Coltello 8
+Ombrello 4
+Forchetta 8
+Matita 4
+Pennello 4
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 1
+Insetto 1
+Trial: 6
+Categories
+modi di essere 0
+concetti astratti 1
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 1
+Sforzo  1
+Denaro 1
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 1
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 7
+Categories
+modi di essere o ststi d animo 0
+relazioni umane 3
+cose astratte 1
+cose concrete o numerabili 2
+Abstract
+Inizio 1
+Area 2
+Numero 2
+Risultato 2
+Punizione 1
+Sforzo  1
+Denaro 2
+Descrizione 2
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 1
+Amicizia 3
+Conflitto 3
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 8
+Categories
+modi di essere 3
+cose astratte 2
+cose concrete 5
+relazioni umane 4
+religione 1
+litigio 0
+Abstract
+Inizio 2
+Area 2
+Numero 5
+Risultato 5
+Punizione 0
+Sforzo  2
+Denaro 5
+Descrizione 5
+Motivo 0
+Salvezza 1
+Destino 2
+Paradiso 1
+Peccato 1
+Logica 2
+Amicizia 4
+Conflitto 4
+Gentilezza 3
+Ansia 3
+Vergogna 3
+Simpatia 3
+Trial: 9
+Categories
+si possono contare 7
+modi d essere 4
+religione 2
+cose negative 3
+cose astratte 0
+relazioni 1
+Abstract
+Inizio 0
+Area 0
+Numero 7
+Risultato 0
+Punizione 3
+Sforzo  0
+Denaro 7
+Descrizione 0
+Motivo 0
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 3
+Logica 7
+Amicizia 1
+Conflitto 3
+Gentilezza 4
+Ansia 4
+Vergogna 4
+Simpatia 4

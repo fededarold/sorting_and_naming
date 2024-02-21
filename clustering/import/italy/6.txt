@@ -1,0 +1,273 @@
+Partecipant 6
+Trial: 1
+Categories
+percorso 0
+gusto 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 0
+Pennello 0
+Cane 0
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 2
+Categories
+utile 0
+non utile 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 3
+Categories
+rapportarsi -1
+ama il prossimo tuo come te stesso 2
+Dio 3
+crescita 0
+utile ma non necessario 1
+Abstract
+Inizio 0
+Area 1
+Numero 0
+Risultato 0
+Punizione 3
+Sforzo  0
+Denaro 3
+Descrizione 1
+Motivo 0
+Salvezza 3
+Destino 3
+Paradiso 3
+Peccato 3
+Logica 0
+Amicizia 2
+Conflitto 0
+Gentilezza 2
+Ansia 0
+Vergogna 2
+Simpatia 2
+Trial: 4
+Categories
+geometria 4
+materiale 5
+Io 2
+essere 3
+gratifica te stesso! 0
+non farti abbindolare! 1
+Abstract
+Inizio 0
+Area 4
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 5
+Descrizione 4
+Motivo 0
+Salvezza 2
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 3
+Conflitto 2
+Gentilezza 3
+Ansia 0
+Vergogna 3
+Simpatia 3
+Trial: 5
+Categories
+ -1
+percorso 1
+rende davvero felici? 3
+solo se sei Alighieri! 2
+fanne tesoro sempre 7
+sentimento 5
+si vive per altro? 0
+non è da tutti 6
+Abstract
+Inizio 1
+Area 1
+Numero 0
+Risultato 0
+Punizione 2
+Sforzo  0
+Denaro 3
+Descrizione 1
+Motivo 0
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 2
+Logica 0
+Amicizia 7
+Conflitto 1
+Gentilezza 5
+Ansia 0
+Vergogna 5
+Simpatia 6
+Trial: 6
+Categories
+cibo 1
+Oggetto 0
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 1
+Coltello 1
+Ombrello 0
+Forchetta 1
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 7
+Categories
+bestiole 1
+lavoro 3
+buon appetito! 0
+casa 2
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 2
+Scopa 2
+Bottiglia 0
+Coltello 0
+Ombrello 2
+Forchetta 0
+Matita 3
+Pennello 3
+Cane 1
+Cammello 1
+Pecora 0
+Mucca 0
+Pappagallo 1
+Insetto 2
+Trial: 8
+Categories
+rima! 1
+pranzo vegetariano 0
+carne alla brace 3
+amici dell'uomo 4
+laboratorio 2
+fauna 5
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 2
+Scopa 2
+Bottiglia 0
+Coltello 0
+Ombrello 1
+Forchetta 0
+Matita 2
+Pennello 1
+Cane 4
+Cammello 5
+Pecora 3
+Mucca 3
+Pappagallo 4
+Insetto 5
+Trial: 9
+Categories
+in ogni casa 3
+frullato 0
+arte 1
+pascolo 6
+oggetti da cucina 5
+ogni bimbo vorrebbe 7
+accendi il cervello! 4
+fastidio 9
+merce di scambio 8
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 2
+Peperone 2
+Lampada 4
+Scopa 3
+Bottiglia 5
+Coltello 5
+Ombrello 3
+Forchetta 5
+Matita 1
+Pennello 1
+Cane 7
+Cammello 8
+Pecora 6
+Mucca 6
+Pappagallo 7
+Insetto 9

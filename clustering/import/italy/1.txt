@@ -1,0 +1,273 @@
+Partecipant 1
+Trial: 1
+Categories
+elementi positivi e utili 1
+elementi negativi 0
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 0
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  0
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 0
+Logica 1
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 0
+Vergogna 0
+Simpatia 1
+Trial: 2
+Categories
+natura 0
+artificiali 1
+x -1
+ -1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 3
+Categories
+animali 0
+frutti 2
+oggetti 1
+ -1
+alimenti che si trovano in natura 3
+Concrete
+Banana 2
+Carota 3
+Uva 2
+Fragola 2
+Fungo 3
+Peperone 3
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 4
+Categories
+volatili 0
+animali 4 zampe 3
+ -1
+frutta 1
+ortaggi 4
+oggetti 2
+fungo 5
+Concrete
+Banana 1
+Carota 4
+Uva 1
+Fragola 1
+Fungo 5
+Peperone 4
+Lampada 2
+Scopa 2
+Bottiglia 2
+Coltello 2
+Ombrello 2
+Forchetta 4
+Matita 2
+Pennello 2
+Cane 3
+Cammello 3
+Pecora 3
+Mucca 3
+Pappagallo 0
+Insetto 0
+Trial: 5
+Categories
+ -1
+animali 4 zampe 2
+volatili 1
+frutti 0
+oggetti grandi 7
+oggetti piccoli 3
+fungo 6
+ortaggi 5
+Concrete
+Banana 0
+Carota 5
+Uva 0
+Fragola 0
+Fungo 6
+Peperone 5
+Lampada 7
+Scopa 7
+Bottiglia 3
+Coltello 3
+Ombrello 7
+Forchetta 3
+Matita 3
+Pennello 3
+Cane 2
+Cammello 2
+Pecora 2
+Mucca 2
+Pappagallo 1
+Insetto 1
+Trial: 6
+Categories
+parole che evocano situazioni positive 1
+concetti che evocano situaxioni negativr 0
+Abstract
+Inizio 1
+Area 1
+Numero 0
+Risultato 1
+Punizione 0
+Sforzo  0
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 0
+Logica 1
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 0
+Vergogna 0
+Simpatia 1
+Trial: 7
+Categories
+modi di essere e sentire 0
+processo logico matematico 1
+elementi a cui tendere 2
+cocretezza 3
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 3
+Sforzo  0
+Denaro 3
+Descrizione 1
+Motivo 2
+Salvezza 0
+Destino 2
+Paradiso 2
+Peccato 0
+Logica 1
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 8
+Categories
+ -1
+processo logico 0
+opposti 2
+quantificabili 3
+durata 5
+tensioni ideali 4
+vissuti interni 1
+Abstract
+Inizio 5
+Area 0
+Numero 3
+Risultato 5
+Punizione 2
+Sforzo  1
+Denaro 3
+Descrizione 0
+Motivo 4
+Salvezza 2
+Destino 4
+Paradiso 4
+Peccato 2
+Logica 0
+Amicizia 2
+Conflitto 2
+Gentilezza 2
+Ansia 1
+Vergogna 1
+Simpatia 2
+Trial: 9
+Categories
+quantificabili 0
+vissuti negativi 1
+modi di essere positivi 2
+valori morali e cattokici 4
+processo logico 3
+Abstract
+Inizio 3
+Area 3
+Numero 0
+Risultato 3
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 3
+Motivo -1
+Salvezza 4
+Destino 4
+Paradiso 4
+Peccato 4
+Logica 3
+Amicizia 2
+Conflitto 1
+Gentilezza 2
+Ansia 1
+Vergogna 1
+Simpatia 2

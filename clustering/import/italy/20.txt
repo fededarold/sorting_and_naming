@@ -1,0 +1,266 @@
+participant 20
+Trial: 1
+Categories
+oggetti concreti 0
+concetti astratti 1
+Concrete
+Banana 0
+Carota 0
+Uva 0
+Fragola 0
+Fungo 0
+Peperone 0
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Abstract
+Inizio 1
+Area 0
+Numero 0
+Risultato 1
+Punizione 1
+Sforzo  1
+Denaro 0
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 0
+Peccato 1
+Logica 1
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1
+Trial: 2
+Categories
+cucina 0
+animali 5
+studio 1
+oggettistica casa 6
+frutta 2
+ortaggi 7
+Concrete
+Banana 2
+Carota 7
+Uva 2
+Fragola 2
+Fungo 7
+Peperone 7
+Lampada 1
+Scopa 6
+Bottiglia 6
+Coltello 0
+Ombrello 6
+Forchetta 0
+Matita 1
+Pennello 6
+Cane 5
+Cammello 5
+Pecora 5
+Mucca 5
+Pappagallo 5
+Insetto 5
+Trial: 3
+Categories
+animali 0
+frutta 3
+posate 1
+ortaggi 4
+casa 2
+studio 5
+Concrete
+Banana 3
+Carota 4
+Uva 3
+Fragola 3
+Fungo 4
+Peperone 4
+Lampada 5
+Scopa 2
+Bottiglia 2
+Coltello 1
+Ombrello 2
+Forchetta 1
+Matita 5
+Pennello 5
+Cane 0
+Cammello 0
+Pecora 0
+Mucca 0
+Pappagallo 0
+Insetto 0
+Trial: 4
+Categories
+frutta 0
+ -1
+animali 2
+casa 1
+ortaggi 3
+Concrete
+Banana 0
+Carota 3
+Uva 0
+Fragola 0
+Fungo 3
+Peperone 3
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 2
+Cammello 2
+Pecora 2
+Mucca 2
+Pappagallo 2
+Insetto 2
+Trial: 5
+Categories
+oggetti 0
+esseri viventi 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 6
+Categories
+vissuti negativi 0
+quantificazione 5
+processi cognitivi razionali 1
+concetti positivi 2
+Abstract
+Inizio 2
+Area 5
+Numero 5
+Risultato 1
+Punizione 0
+Sforzo  1
+Denaro 5
+Descrizione 2
+Motivo 1
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 0
+Logica 1
+Amicizia 2
+Conflitto 0
+Gentilezza 2
+Ansia 0
+Vergogna 0
+Simpatia 2
+Trial: 7
+Categories
+corteccia frontale 0
+economia 3
+religione 1
+processo 4
+vissuti negativi 2
+passività 5
+Abstract
+Inizio 4
+Area 3
+Numero 3
+Risultato 4
+Punizione 5
+Sforzo  4
+Denaro 3
+Descrizione 0
+Motivo 4
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 2
+Logica 0
+Amicizia 1
+Conflitto 2
+Gentilezza 1
+Ansia 2
+Vergogna 5
+Simpatia 1
+Trial: 8
+Categories
+razionalità 0
+irrazionalità 2
+tristezza 1
+superfluo 3
+Abstract
+Inizio 0
+Area 0
+Numero 3
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 3
+Descrizione 0
+Motivo 0
+Salvezza 2
+Destino 2
+Paradiso 2
+Peccato 1
+Logica 0
+Amicizia 2
+Conflitto 1
+Gentilezza 2
+Ansia 1
+Vergogna 1
+Simpatia 0
+Trial: 9
+Categories
+razionalità 0
+emotivo 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 1
+Sforzo  0
+Denaro 0
+Descrizione 0
+Motivo 0
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 1
+Logica 0
+Amicizia 1
+Conflitto 1
+Gentilezza 1
+Ansia 1
+Vergogna 1
+Simpatia 1

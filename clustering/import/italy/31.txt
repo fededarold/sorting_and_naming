@@ -1,0 +1,273 @@
+participant 31
+Trial: 1
+Categories
+Concetti -1
+Concreto 1
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Abstract
+Inizio 0
+Area 0
+Numero 0
+Risultato 0
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 0
+Motivo 0
+Salvezza 0
+Destino 0
+Paradiso 0
+Peccato 0
+Logica 0
+Amicizia 0
+Conflitto 0
+Gentilezza 0
+Ansia 0
+Vergogna 0
+Simpatia 0
+Trial: 2
+Categories
+Neutre/positive 1
+Negative 0
+Abstract
+Inizio 1
+Area 1
+Numero 1
+Risultato 1
+Punizione 0
+Sforzo  0
+Denaro 1
+Descrizione 1
+Motivo 1
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 0
+Logica 1
+Amicizia 1
+Conflitto 0
+Gentilezza 1
+Ansia 0
+Vergogna 0
+Simpatia 1
+Trial: 3
+Categories
+Negativo 2
+Positivo 1
+Neutro 3
+Continuità 0
+Abstract
+Inizio 0
+Area 3
+Numero 3
+Risultato 0
+Punizione 2
+Sforzo  2
+Denaro 3
+Descrizione 3
+Motivo 0
+Salvezza 1
+Destino 0
+Paradiso 1
+Peccato 2
+Logica 0
+Amicizia 1
+Conflitto 2
+Gentilezza 1
+Ansia 2
+Vergogna 2
+Simpatia 1
+Trial: 4
+Categories
+Neutro 2
+Astrazione positiva 1
+Positività -1
+Negatività 4
+Risultati negativi 5
+Motivazione 3
+Abstract
+Inizio 3
+Area 2
+Numero 2
+Risultato 3
+Punizione 5
+Sforzo  4
+Denaro 2
+Descrizione 2
+Motivo 3
+Salvezza 1
+Destino 1
+Paradiso 1
+Peccato 5
+Logica 0
+Amicizia 0
+Conflitto 4
+Gentilezza 0
+Ansia 4
+Vergogna 5
+Simpatia 0
+Trial: 5
+Categories
+Positività -1
+Positività astratta 7
+Negatività 1
+Risultati negativi -1
+Neutro -1
+Obiettivi 0
+Abstract
+Inizio 0
+Area 5
+Numero 5
+Risultato 0
+Punizione 2
+Sforzo  0
+Denaro 5
+Descrizione 5
+Motivo 0
+Salvezza 7
+Destino 7
+Paradiso 7
+Peccato 2
+Logica 6
+Amicizia 6
+Conflitto 1
+Gentilezza 6
+Ansia 1
+Vergogna 2
+Simpatia 6
+Trial: 6
+Categories
+Natura 1
+Oggetti 0
+Concrete
+Banana 1
+Carota 1
+Uva 1
+Fragola 1
+Fungo 1
+Peperone 1
+Lampada 0
+Scopa 0
+Bottiglia 0
+Coltello 0
+Ombrello 0
+Forchetta 0
+Matita 0
+Pennello 0
+Cane 1
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 1
+Insetto 1
+Trial: 7
+Categories
+Frutta 0
+Verdura -1
+Vegetali 2
+Animali 3
+Oggetti 1
+Concrete
+Banana 0
+Carota 2
+Uva 0
+Fragola 0
+Fungo 2
+Peperone 2
+Lampada 1
+Scopa 1
+Bottiglia 1
+Coltello 1
+Ombrello 1
+Forchetta 1
+Matita 1
+Pennello 1
+Cane 3
+Cammello 3
+Pecora 3
+Mucca 3
+Pappagallo 3
+Insetto 3
+Trial: 8
+Categories
+Oggetti studio 3
+frutta 4
+Oggetti casa -1
+Animali da casa 2
+Animali 1
+Vegetali 0
+Concrete
+Banana 4
+Carota -1
+Uva 4
+Fragola 4
+Fungo 0
+Peperone 0
+Lampada 3
+Scopa 5
+Bottiglia 5
+Coltello 5
+Ombrello 5
+Forchetta 5
+Matita 3
+Pennello 3
+Cane 2
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 2
+Insetto 1
+Trial: 9
+Categories
+ -1
+Animali da casa 0
+Animali -1
+Oggetti cucina -1
+Oggetti scrivania 3
+Vegetale 4
+frutta 6
+insetti 7
+Oggetti casa 8
+ -1
+Funghi 5
+Concrete
+Banana 6
+Carota 4
+Uva 6
+Fragola 6
+Fungo 5
+Peperone 4
+Lampada 3
+Scopa 8
+Bottiglia 2
+Coltello 2
+Ombrello 8
+Forchetta 2
+Matita 3
+Pennello 3
+Cane 0
+Cammello 1
+Pecora 1
+Mucca 1
+Pappagallo 0
+Insetto 7
