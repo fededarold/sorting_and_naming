@@ -1,6 +1,7 @@
 numpy
-scipy
+sklearn
 pandas
 networkx
 yellowbrick
 matplotlib
+seaborn
